@@ -8,12 +8,12 @@ https://assign-mentor-s9f8.onrender.com
 <h3>for getting all Students details</h3>
 <h4>get method:</h4> https://assign-mentor-s9f8.onrender.com/students/
 
+<h3>for getting all mentors details</h3>
+<h4>get method: </h4> https://assign-mentor-s9f8.onrender.com/mentors/
+
 <h3>1) for creating new student</h3>
 <h4>post method:</h4> https://assign-mentor-s9f8.onrender.com/students/createStudents
 <h5>body: {"name":"parthi"}</h5>
-
-<h3>for getting all mentors details</h3>
-<h4>get method: </h4> https://assign-mentor-s9f8.onrender.com/mentors/
 
 <h3>2) for creating new mentor</h3>
 <h4>post method: </h4> https://assign-mentor-s9f8.onrender.com/mentors/createMentors
