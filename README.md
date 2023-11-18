@@ -27,8 +27,8 @@ https://assign-mentor-s9f8.onrender.com
 <h4>patch method: </h4> https://assign-mentor-s9f8.onrender.com/students/64c47f8011b3e8c2a8a3b052
 
 <h3>5) for getting particular mentors student list</h3>
-<h4>get method: </h4> https://assign-mentor-s9f8.onrender.com/mentors/vishnu
+<h4>get method: </h4> https://assign-mentor-s9f8.onrender.com/mentors/Dhanush
 
 <h3>6) for getting particular students previous mentor data</h3>
-<h4>get method: </h4> https://assign-mentor-s9f8.onrender.com/students/parthi
+<h4>get method: </h4> https://assign-mentor-s9f8.onrender.com/students/muthu
 
