@@ -13,7 +13,7 @@ https://assign-mentor-s9f8.onrender.com
 
 <h3>1) for creating new student</h3>
 <h4>post method:</h4> https://assign-mentor-s9f8.onrender.com/students/createStudents
-<h5>body: {"name":"parthi"}</h5>
+<h5>body: {"name":"parthi"}</h5><span>(post this data in postman to create a new student)</span>
 
 <h3>2) for creating new mentor</h3>
 <h4>post method: </h4> https://assign-mentor-s9f8.onrender.com/mentors/createMentors
