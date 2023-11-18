@@ -1,7 +1,7 @@
-<h1>**GUVI Day 39 task Node-JS Assign-Mentor**</h1>
+<h1>**Mentor and Student Assigning with Database**</h1>
 
 
-<h2>Created task deployed on below link :</h2>
+<h2>Deployed Render link for Mentor and Student Assign task</h2>
 https://assign-mentor-s9f8.onrender.com
 
 
